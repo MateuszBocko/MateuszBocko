@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Junior+data+scientist+and+data+analyst.++++++++++)](https://git.io/typing-svg)
 
 # You can reach me via:
 * Email: mateuszbocko1@gmail.com 
