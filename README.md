@@ -11,4 +11,4 @@
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MateuszBocko&repo=Cooperate_projects&show_owner=true)](https://github.com/MateuszBocko/Cooperate_projects)
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/python.png"></code>
