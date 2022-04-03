@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Junior+data+scientist+and+data+analyst.++++++++++)](https://git.io/typing-svg)
 
-# You can reach me via:
 * Email: mateuszbocko1@gmail.com 
 * [LinkedIn](https://www.linkedin.com/in/mateusz-bo%C4%87ko-b48895182/)
 
