@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Junior+data+scientist+and+data+analyst.++++++++++)](https://git.io/typing-svg)
 
-<h2 align="center">Hello everyone 👋, my name is Mateusz and welcome to my GitHub account!</h2>
-<h2 align="center">If you have any questions, please free to conctact me ✉️!</h2>
+<h2 align="center">Hello everyone 👋, my name is Mateusz and welcome to my GitHub account!
+If you have any questions, please free to conctact me ✉️</h2>
+<h2 align="center">If you have any questions, please free to conctact me ✉️</h2>
 
 * Email: mateuszbocko1@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/mateusz-bo%C4%87ko-b48895182/)
