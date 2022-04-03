@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Junior+data+scientist+and+data+analyst.++++++++++)](https://git.io/typing-svg)
 
-* Email: mateuszbocko1@gmail.com 
-* [LinkedIn](https://www.linkedin.com/in/mateusz-bo%C4%87ko-b48895182/)
+Email: mateuszbocko1@gmail.com
+<a href="https://www.linkedin.com/in/mateusz-bo%C4%87ko-b48895182/" target="blank">LinkedIn: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Medium" height="30" width="40" /></a> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MateuszBocko&theme=highcontrast&show_icons=true&count_private=true)
 
