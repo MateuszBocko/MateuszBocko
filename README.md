@@ -6,6 +6,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBocko)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MateuszBocko&repo=Python)](https://github.com/MateuszBocko/Python)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MateuszBocko&repo=Private_projects&show_owner=true)](https://github.com/MateuszBocko/Private_projects)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MateuszBocko&repo=Cooperate_projects&show_owner=true)](https://github.com/MateuszBocko/Cooperate_projects)
