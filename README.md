@@ -13,8 +13,6 @@ UPDATE: Recently I started new job as Data Developer/Engineer. I have started le
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MateuszBocko&repo=Private_projects)](https://github.com/MateuszBocko/Private_projects)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MateuszBocko&repo=Cooperate_projects)](https://github.com/MateuszBocko/Cooperate_projects)
-
 <code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/spark.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/Tableau+Logo.png"></code>
