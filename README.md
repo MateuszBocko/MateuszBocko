@@ -16,3 +16,4 @@ UPDATE: Recently I started new job as Data Developer/Engineer. I have started le
 <code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/spark.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/Tableau+Logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/MateuszBocko/MateuszBocko/master/icons/aws.png"></code>
