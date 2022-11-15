@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Junior+data+scientist+/+data+analyst.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Data+engineer+/+Junior+data+scientist.++++++++++)](https://git.io/typing-svg)
 
 <h2 align="center">Hello everyone 👋, my name is Mateusz and welcome to my GitHub account! <br>If you have any questions, please free to conctact me ✉️</h2>
 
