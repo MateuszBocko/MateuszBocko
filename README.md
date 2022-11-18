@@ -2,8 +2,6 @@
 
 <h2 align="center">Hello everyone 👋, my name is Mateusz and welcome to my GitHub account! <br>If you have any questions, please free to conctact me ✉️</h2>
 
-UPDATE: Recently I started new job as Data Developer/Engineer. I have started learning AWS since then, so there will be no more updates for now.
-
 * Email: mateuszbocko1@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/mateusz-bo%C4%87ko-b48895182/)
 
